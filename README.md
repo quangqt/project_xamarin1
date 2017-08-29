@@ -1,2 +1,2 @@
 # project_xamarin1
-ahc
+https://developer.xamarin.com/guides/android/user_interface/layouts/grid-view/
